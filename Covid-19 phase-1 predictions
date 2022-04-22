@@ -1,5 +1,4 @@
-The link for the kaggle notebook can be found here
-https://www.kaggle.com/code/ashank19/covid-19-predictions/notebook
+The link for the kaggle notebook is attached
 Studied the time series data for covid-19 patients in India in various phases, growth, recovery and death rates.
 •	Approximately correct predictions for Covid-19 in India from 5th May 2020 to 17th September with an RMSE of about (5000) max.
 •	Deployed different time series algorithms viz. SARIMA (taking exogeneous factors into account), Facebook Prophet library for predictions.
